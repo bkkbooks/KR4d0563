@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0563/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0563_WYG_000-1a, image: WYG1218/WYG1218-0535a.png}
+body:
+  text: 山窻餘稿别集類四元提要臣等謹按山窻餘稿一巻元甘復撰復字克敬餘干人其詩受學於張翥雖不及翥之才力富健諸體兼備而風懷澄澹意境翛然五言古體綽有韋栁之遺其格韻乃似在翥上盖才有所偏長詣有所獨至也元亡之後遁跡以終著作散佚僅存手墨於同里趙石蒲家凡文四十九篇詩十七首明成化中石蒲之孫琥始為繕錄開雕復見於世雖零篇斷簡所剩無多而詩格文章一一髙潔疑復當日自擇其最得意者手錄此帙故篇篇率有可觀轉勝於珠礫襍陳務盈巻帙徒供覆瓿者矣顧嗣立元詩選稱琥刻是編劉憲為序稱其詩俊逸清竒此本僅有琥跋不載憲序盖刋板散失之後輾轉傳抄佚之矣然復集足傳亦不以序之有無為輕重也乾隆四十二年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:3dddc570764720c81d72879729f601407a4bd9827fb4bf21862c86f20c45159d
+metadata:
+  title: 山窻餘稿
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:14:35.273485'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0563/KR4d0563_000.txt
+hash: sha256:1265901dab9d6737a973d5a05b41d034fd293291fd9bd2ae43bbc67f12970c76
